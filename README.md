@@ -12,7 +12,7 @@ A mySQL database and application backend for an e-commerce site.  Built using My
 
 ## Usage
 
-Run the following commands at the root of your project
+Run the following commands at the root of your project:
 
 `mysql -u root -p`
 
